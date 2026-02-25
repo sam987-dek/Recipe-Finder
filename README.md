@@ -54,3 +54,11 @@ Future Improvements
 Learning Outcomes
 
 This project demonstrates: • REST API consumption using Axios • React Hooks (useState, useEffect) • Client-side routing with React Router • Dynamic filtering and conditional rendering • Component-based architecture • Performance optimization strategies
+
+## Author
+
+Name: Samarth Patil  
+Roll No: 10405  
+Institute: Scaler  
+Submitted to: Mirnal Battacharya  
+Deployed Link: https://recipe-finder-alpha-two.vercel.app/
